@@ -1,0 +1,21 @@
+.head{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(15, 28, 104);
+}
+.input{
+    background-color: rgba(216, 136, 79, 0.774);
+    color: aliceblue;
+    width: 50%;
+    text-align: center;
+    padding: 15px;
+}
+.pera{
+    text-align: center;
+    margin-top: 5%;
+}
+#delete-btn{
+    padding: 15px;
+    background-color: crimson;
+    margin-left: 60em;
+}
